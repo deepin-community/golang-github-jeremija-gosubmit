@@ -1,0 +1,2 @@
+# False positive, the three html documents are used by the tests
+package-contains-documentation-outside-usr-share-doc
